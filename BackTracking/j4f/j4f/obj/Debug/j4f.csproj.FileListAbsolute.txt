@@ -1,0 +1,8 @@
+C:\Users\ASUS\Documents\c#\giaibaitap\KTLT\2D array\p2\j4f\j4f\bin\Debug\j4f.exe.config
+C:\Users\ASUS\Documents\c#\giaibaitap\KTLT\2D array\p2\j4f\j4f\bin\Debug\j4f.exe
+C:\Users\ASUS\Documents\c#\giaibaitap\KTLT\2D array\p2\j4f\j4f\bin\Debug\j4f.pdb
+C:\Users\ASUS\Documents\c#\giaibaitap\KTLT\2D array\p2\j4f\j4f\obj\Debug\j4f.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\c#\giaibaitap\KTLT\2D array\p2\j4f\j4f\obj\Debug\j4f.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Documents\c#\giaibaitap\KTLT\2D array\p2\j4f\j4f\obj\Debug\j4f.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\c#\giaibaitap\KTLT\2D array\p2\j4f\j4f\obj\Debug\j4f.exe
+C:\Users\ASUS\Documents\c#\giaibaitap\KTLT\2D array\p2\j4f\j4f\obj\Debug\j4f.pdb

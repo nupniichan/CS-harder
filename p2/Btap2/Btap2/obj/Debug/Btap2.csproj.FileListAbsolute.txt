@@ -1,0 +1,8 @@
+C:\Users\ASUS\Documents\c#\giaibaitap\KTLT\2D array\p2\Btap2\Btap2\bin\Debug\Btap2.exe.config
+C:\Users\ASUS\Documents\c#\giaibaitap\KTLT\2D array\p2\Btap2\Btap2\bin\Debug\Btap2.exe
+C:\Users\ASUS\Documents\c#\giaibaitap\KTLT\2D array\p2\Btap2\Btap2\bin\Debug\Btap2.pdb
+C:\Users\ASUS\Documents\c#\giaibaitap\KTLT\2D array\p2\Btap2\Btap2\obj\Debug\Btap2.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\c#\giaibaitap\KTLT\2D array\p2\Btap2\Btap2\obj\Debug\Btap2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Documents\c#\giaibaitap\KTLT\2D array\p2\Btap2\Btap2\obj\Debug\Btap2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\c#\giaibaitap\KTLT\2D array\p2\Btap2\Btap2\obj\Debug\Btap2.exe
+C:\Users\ASUS\Documents\c#\giaibaitap\KTLT\2D array\p2\Btap2\Btap2\obj\Debug\Btap2.pdb
